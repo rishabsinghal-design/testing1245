@@ -3,8 +3,8 @@ pipeline {
 
   environment {
     NODE_VERSION = '18'
-    APP_NAME     = 'aisdlc-dryrun-test'
-    REPO_URL     = 'https://github.com/rishabsinghal-design/aisdlc-dryrun-test.git'
+    APP_NAME     = 'testing1245'
+    REPO_URL     = 'https://github.com/rishabsinghal-design/testing1245.git'
     DEPLOY_PORT  = '3000'
   }
 
